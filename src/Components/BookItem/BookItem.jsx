@@ -9,12 +9,10 @@ import {
 const { Title, Text } = Typography;
 const BookItem = ({ book, deleteBook, onEditBook }) =>{
   return (
-    <div className="BookItem">
+    <div>
       <Card
         cover={
           <Image
-            width={200}
-            height={145}
             alt="image"
             src={book.photo}
           />

@@ -7,11 +7,10 @@ import BooksList from './Components/BooksList/BooksList'
 import {
   BOOKS_STORE
 } from './const';
+import { Row, Col, Button } from 'antd';
 
 import './App.css';
 import 'antd/dist/antd.css';
-
-import { Row, Col, Button } from 'antd';
 
 function App() {
   const [books, setBooks] = useState([]); // список книг
@@ -69,7 +68,7 @@ function App() {
     setIsModalVisible(true);
   }
 
-  /** Проверяет наличие id при закрытии модального окна (если id есть то обновляет данные, если нет, то создает новую книгу) */
+  /** Проверяет наличие id при закрытии модального окна (если id есть то обновляет данные, если нет, то создает новую) */
   const modalСhoice = (book) => {
     if (book.id) {
       updateBooks(book);
