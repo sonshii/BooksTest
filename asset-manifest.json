@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/BooksTest.github.io/static/css/main.2a32159c.chunk.css",
+    "main.js": "/BooksTest.github.io/static/js/main.2a9a4df5.chunk.js",
+    "main.js.map": "/BooksTest.github.io/static/js/main.2a9a4df5.chunk.js.map",
+    "runtime-main.js": "/BooksTest.github.io/static/js/runtime-main.5cfda7b7.js",
+    "runtime-main.js.map": "/BooksTest.github.io/static/js/runtime-main.5cfda7b7.js.map",
+    "static/css/2.936e2ca4.chunk.css": "/BooksTest.github.io/static/css/2.936e2ca4.chunk.css",
+    "static/js/2.bd18f88f.chunk.js": "/BooksTest.github.io/static/js/2.bd18f88f.chunk.js",
+    "static/js/2.bd18f88f.chunk.js.map": "/BooksTest.github.io/static/js/2.bd18f88f.chunk.js.map",
+    "index.html": "/BooksTest.github.io/index.html",
+    "static/css/2.936e2ca4.chunk.css.map": "/BooksTest.github.io/static/css/2.936e2ca4.chunk.css.map",
+    "static/css/main.2a32159c.chunk.css.map": "/BooksTest.github.io/static/css/main.2a32159c.chunk.css.map",
+    "static/js/2.bd18f88f.chunk.js.LICENSE.txt": "/BooksTest.github.io/static/js/2.bd18f88f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5cfda7b7.js",
+    "static/css/2.936e2ca4.chunk.css",
+    "static/js/2.bd18f88f.chunk.js",
+    "static/css/main.2a32159c.chunk.css",
+    "static/js/main.2a9a4df5.chunk.js"
+  ]
+}
